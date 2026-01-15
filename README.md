@@ -20,8 +20,10 @@ I am particularly interested in:
 ## 🎓 Education
 **M.S. in Biostatistics**  
 University of California, Los Angeles (UCLA)
-**B.S. in Statistics**  
+
+**B.S. in Statistics**
 University of California, Davis (UCD)
+
 ---
 
 ## 🛠 Technical Skills
